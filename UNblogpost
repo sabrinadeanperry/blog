@@ -1,5 +1,5 @@
-<html>
-</head>
-<body><div class="entry-meta"><a class="entry-date published">August 19, 2019</a></div>	
-</body>
+<html prefix="og: http://ogp.me/ns#">
+<head>
+ <script data-rh="true" type="application/ld+json">{"@context":"http:\u002F\u002Fschema.org","@type":"NewsArticle","image":["https:\u002F\u002Fmiro.medium.com\u002Fmax\u002F1200\u002F1*o2Wrxlg3Z2m4F1U5owXScg.png"],"url":"https:\u002F\u002Fmedium.com\u002Fpassivelogic\u002Fbuilding-controls-built-on-swift-59a50f11eaef","dateCreated":"2019-03-14T19:37:09.514Z","datePublished":"2019-03-14T19:37:09.514Z","dateModified":"2019-09-11T21:48:09.569Z","headline":"Error-free automation built on Swift","name":"Error-free automation built on Swift","description":"At PassiveLogic we undertook an interesting experiment early in 2016 to refactor some of our C-code to Apple’s new systems language Swift. This experimental project proved successful, and we decided…","identifier":"59a50f11eaef","keywords":["Lite:true","Tag:Programming","Tag:Swift Programming","Tag:Startup","Tag:Product Development","Publication:passivelogic","Elevated:false","LockedPostSource:LOCKED_POST_SOURCE_NONE","LayerCake:0"],"author":{"@type":"Person","name":"Travis Anna Harvey","url":"https:\u002F\u002Fmedium.com\u002F@travisannaharvey"},"creator":["Travis Anna Harvey"],"publisher":{"@type":"Organization","name":"PassiveLogic","url":"https:\u002F\u002Fmedium.com\u002Fpassivelogic","logo":{"@type":"ImageObject","width":298,"height":60,"url":"https:\u002F\u002Fmiro.medium.com\u002Fmax\u002F596\u002F1*HZiFEO_0Xc1seH53YutMcg.png"}},"mainEntityOfPage":"https:\u002F\u002Fmedium.com\u002Fpassivelogic\u002Fbuilding-controls-built-on-swift-59a50f11eaef"}</script>
+</head>	
 </html>
